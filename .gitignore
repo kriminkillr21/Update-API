@@ -13,6 +13,7 @@ temp/*
 src/minecraft/*
 !src/minecraft/modUpdater
 CHANGELOG
+src/minecraft/modupdater/TestMod.java
 
 #################
 ## Eclipse
